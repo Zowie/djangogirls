@@ -72,3 +72,4 @@ pip-selfcheck.json
 myvenv
 .idea
 *.iml
+static
